@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeboraSSilvaa
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning how to start programmin
+- 🌱 I’m currently learning how to start programming
 - 📫 How to reach me: https://www.linkedin.com/in/deborsilva/
 
 <!---
